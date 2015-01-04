@@ -16,6 +16,8 @@ FlashUtil:
 With FlashUtil you can make players flash red.
 
 ```java
+//Preview: https://www.youtube.com/watch?v=IF0XOrh03As
+
 //Flash a player manually
 FlashUtil.getInstance().flashPlayer(player);
 
